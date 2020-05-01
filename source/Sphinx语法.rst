@@ -36,8 +36,7 @@ Sphinx语法
 ----
 
 * This is a bulleted list.
-* It has two items, the second
-  item uses two lines.
+* It has two items, the second item uses two lines.
 
 1. This is a numbered list.
 2. It has two items too.
@@ -85,15 +84,6 @@ This is a normal text paragraph again.
     :lines: 1-40
 
 
-
-def my_function(my_arg, my_other_arg):
-    """A function just for me.
-
-    :param my_arg: The first of my arguments.
-    :param my_other_arg: The second of my arguments.
-
-    :returns: A message (just for me, of course).
-    """
 
 表格
 ----
